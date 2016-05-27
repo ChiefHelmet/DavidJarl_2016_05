@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DavidJarl_2016_05
+namespace DavidJ_MVC_2016_05
 {
-    public class Program
+    class ProductNumberIsValid
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
